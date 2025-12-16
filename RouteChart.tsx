@@ -1,7 +1,7 @@
 import React from 'react';
 import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, Legend } from 'recharts';
-import { RouteSegment, ColorConfig } from '../types';
-import { LABELS } from '../constants';
+import { RouteSegment, ColorConfig } from './types';
+import { LABELS } from './constants';
 
 interface RouteChartProps {
   segments: RouteSegment[];

@@ -1,5 +1,5 @@
 import React from 'react';
-import { DetailedSegment, ColorConfig, RoadType } from '../types';
+import { DetailedSegment, ColorConfig, RoadType } from './types';
 import { Clock, Navigation, Ship } from 'lucide-react';
 
 interface SegmentListProps {

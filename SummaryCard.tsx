@@ -1,6 +1,6 @@
 import React from 'react';
 import { Clock, Navigation, Coffee, Moon, Zap } from 'lucide-react';
-import { LogisticsTime } from '../utils/driverRules';
+import { LogisticsTime } from './driverRules';
 
 interface SummaryCardProps {
   totalDistance: number;

@@ -1,5 +1,5 @@
-import { RouteSegment, RoadType, RouteAnalysisData, DetailedSegment, SpeedConfig } from '../types';
-import { SPEEDS as DEFAULT_SPEEDS } from '../constants';
+import { RouteSegment, RoadType, RouteAnalysisData, DetailedSegment, SpeedConfig } from './types';
+import { SPEEDS as DEFAULT_SPEEDS } from './constants';
 
 interface LatLng {
   lat: number;

@@ -1,7 +1,7 @@
 import React from 'react';
 import { X, RotateCcw } from 'lucide-react';
-import { ColorConfig, SpeedConfig, RoadType } from '../types';
-import { LABELS, DEFAULT_COLORS, SPEEDS as DEFAULT_SPEEDS } from '../constants';
+import { ColorConfig, SpeedConfig, RoadType } from './types';
+import { LABELS, DEFAULT_COLORS, SPEEDS as DEFAULT_SPEEDS } from './constants';
 
 interface SettingsModalProps {
   isOpen: boolean;
