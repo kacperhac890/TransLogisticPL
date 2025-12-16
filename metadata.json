@@ -1,0 +1,5 @@
+{
+  "name": "TruckLogistics PL",
+  "description": "Kalkulator czasu dostawy dla samochodów ciężarowych z analizą typów dróg (autostrady, krajowe, miejske) zasilany przez Gemini i Google Maps.",
+  "requestFramePermissions": []
+}
